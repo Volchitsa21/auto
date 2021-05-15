@@ -16,7 +16,7 @@ public class Auto {
     public String getMake() {
         return make;
     }
-
+//hello
     public String getColor() {
         return color;
     }
